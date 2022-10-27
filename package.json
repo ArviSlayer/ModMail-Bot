@@ -9,16 +9,16 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Estawky/ModMail.git"
+    "url": "git+https://github.com/ArviSlayer/Discord-ModMail-Bot.git"
   },
 
   "author": "ArviS#0011",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Estawky/ModMail/issues"
+    "url": "https://github.com/ArviSlayer/Discord-ModMail-Bot/issues"
   },
 
-  "homepage": "https://github.com/Estawky/ModMail#readme",
+  "homepage": "https://github.com/ArviSlayer/Discord-ModMail-Bot#readme",
   "dependencies": {
     "discord.js": "^12.4.1",
     "quick.db": "^7.1.3"
